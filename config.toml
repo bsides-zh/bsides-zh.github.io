@@ -4,3 +4,6 @@ title = 'BSides Zurich'
 theme = 'ananke'
 
 SectionPagesMenu = "main"
+
+[params]
+  text_color = "dark-gray"
