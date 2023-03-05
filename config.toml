@@ -1,0 +1,6 @@
+baseURL = "https://bsideszh.ch/"
+languageCode = 'en-us'
+title = 'BSides Zurich'
+theme = 'ananke'
+
+SectionPagesMenu = "main"
