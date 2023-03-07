@@ -7,3 +7,13 @@ SectionPagesMenu = "main"
 
 [params]
   text_color = "dark-gray"
+  rel = "me noopener"
+  site_logo = "images/bsides_logo_blue.jpg"
+
+[[params.ananke_socials]]
+  name = "twitter"
+  url = "https://twitter.com/BSidesZurich"
+
+[[params.ananke_socials]]
+  name = "mastodon"
+  url = "https://infosec.exchange/BSidesZurich"
