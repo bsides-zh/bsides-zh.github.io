@@ -1,0 +1,13 @@
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+
+  {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+  <header class="cover bg-top">
+    <div>
+      {{ partial "site-navigation.html" . }}
+      <div class="tc-l bg-white">
+        {{ if $featured_image }}
+        <img src="{{ $featured_image }}" alt="BSides Zurich 2023" />
+        {{ end}}
+      </div>
+    </div>
+  </header>
