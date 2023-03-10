@@ -6,9 +6,9 @@ menu:
   main:
     weight: 1
 url: /
+featured_image: "/images/bsides_logo_blue.jpg"
+omit_header_text: true
 ---
-
-{{< figure src="/images/bsides_logo_blue.jpg">}}
 
 # What is BSides?
 
