@@ -1,0 +1,18 @@
+#TableOfContents ul {
+    list-style-type: none;
+    /* padding-left: 0; */
+}
+
+#TableOfContents > ul {
+    padding-left: 0;
+}
+
+#TableOfContents ul a {
+    margin-bottom: 1.3em;
+    display: block;
+    text-decoration: none;
+}
+
+.custom-toc {
+    background-color: rgba(0, 0, 0, 0.02);
+}

@@ -10,6 +10,7 @@ SectionPagesMenu = "main"
   rel = "me noopener"
   site_logo = "images/bsides_logo_blue.jpg"
   mainSections = ["updates"]
+  custom_css = ["custom.css"]
 
 [[params.ananke_socials]]
   name = "twitter"
