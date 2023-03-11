@@ -1,112 +1,168 @@
 ---
 title: "Call for Papers"
 date: 2023-03-05T17:32:54Z
-draft: true
+draft: false
 menu:
   main:
     weight: 2
 toc: true
 ---
 
-We want this conference to be different, in the sense that we more highly value having attendees interacting and exchanging ideas, both between themselves and the speakers, than having talks with meticulous details. In order to achieve this, we chose a particular, different format.
+## Conference format
 
-We are doing our best to improve every year, and offer the best conference experience to both attendees and speakers. That’s why this year we are very happy to continue again with the **Shepherding process**.
+We want BSides Zurich to be a different kind of conference, where attendees and
+speakers have a real opportunity to mingle and engage in active discussion. In
+order to achieve this, we chose an atypical conference format that our attendees
+have really enjoyed.
 
-If you plan to submit a talk, please read this section carefully because you, the speaker, will play a very important role. This is the format (time-slots may slightly change), with one morning and one afternoon session (time/schedule still tentative):
+There are a total of 6 talks, all in English. Talks are grouped by 3 and are
+divided into two sessions (morning and afternoon). Each talk is only 20 minutes
+long, and after the 3 morning talks, each speaker gets an assigned room and
+organize an hour-long breakout “discussion” session. Participants can pick the
+talk that interested them the most and attend that session. Or they can just ask
+a few questions, and hop onto another session! Think of discussion sessions as
+an hour-long Q&A where participants and speakers can really take time to ask and
+answer questions, deep-dive into that demo, and get into the nitty-gritty
+details of their topic. The same happens after lunch, in the afternoon.
+
+A typical day at BSides Zurich goes like this:
 
 ```
 09:45 – 10:00 Welcome and Event presentation
 10:00 – 10:30 Keynote
 10:30 – 11:00 Coffee break
-*Morning session*
+
+* Morning session start*
 11:00 – 12:00 3x20m presentations
 12:00 – 13:00 discussion groups hop on hop off + coffee break
-13:00 – 14:00 lunch
-*Afternoon session*
+* Morning session end *
+
+13:00 – 14:00 lunch + coffee break
+
+*Afternoon session start*
 14:30 – 15:30 3x20m presentations
 15:30 – 16:30 discussion groups hop on hop off + coffee break
+* Afternoon session end *
+
 16:30 – 17:00 closing remarks
 ```
 
-You have one slot of 20 minutes to give your presentation. After the talks of your session are done, the speakers move to three separate rooms where attendees can join and engage in active discussions with you and the other participants.
+In a nutshell, as a speaker you should rememebr to **prepare a talk that can be
+given in 20 minutes**, and **enough material for an hour of Q&A**.
 
-## TL;DR
-With the Shepherding process, we are giving you a chance to submit your paper or presentation one month before the official CfP deadline, and we will work with you to make it better to increase your chances of getting it accepted by the official submission process.
+## Submitting a talk
 
-* **Shepherding deadline**: 23:59 Zurich time (UTC+2), Wednesday, 1st of June
-* **Official CfP deadline**: 23:59 Zurich time (UTC+2), Wednesday, 29th of June
+As mentioned above, your talk should be **20 minutes long**, and provide enough
+discussion points for **about an hour of Q&A** session.
 
-## What’s the Shepherding process?
-Every year we receive many promising submissions that, although very close in the scoring to those who ultimately make it to the conference, fail to be accepted because they somehow just missed the mark, or they’re not well-adapted to the BSides Zurich format. The shepherding process is designed to provide feedback to submitters in the hope that the revised submission may have more chances to be accepted (but, keep in mind, there are no guarantees).
+The process for submitting is fairly straightofrward - provide an abstract of
+your talk (ideally with an outline of the points you’re planning to cover, and
+some discussion points you’re planning to raise during your breakout session)
+and send it to &lt;EASYCHAIR / CPF PLATFORM>.
 
-### Who can participate?
+The main topic, as you may have guessed, is cybersecurity, and any topic goes:
+reverse engineering, application security, forensics, incident response, threat
+intelligence, hardware exploitation…
 
-We know our talk format is a bit special, so we encourage everyone to participate in the process. This may be particularly useful for those of you who have less experience submitting to Call-for-Papers, would like guidance on how to make their presentation better, or are just not sure if their research is on-topic. To be eligible for Shepherding, you need to:
+To summarize:
 
-Be willing to submit your material one month before the standard CfP deadline.
-Be willing to put in some more work with a member of the Program Committee who will spend a few hours with you to help you refine your submission.
+- Language: the talk and slides must be in English.
+- Duration: Talks are 20 minutes long, so make sure you keep it short and sweet!
+- Q&A: The breakout sessions are about 45 minutes long and will give you plenty
+  of time to go into more depth.
+- We recommend that you end your presentation with questions that will encourage
+  dialogue with your audience – people are often shy to start with!
 
-### What next?
-Someone from the Program Committee will reach out to you with some initial feedback on your submission. You’re then free to work with your mentor to improve your submission and submit it again by the official CfP deadline, where the Program Committee will re-evaluate your submission as if it was brand-new.
+&lt;LINK FOR SUBMITTING TALK>
 
-## Additional details
-Only submissions received by 23:59 Zurich time (UTC+2), Wednesday, 1st of June, will be considered for shepherding. All final submissions (including the refined one from Shepherding) must be received by 23:59 Zurich time (UTC+2), Wednesday, 29th of June.
+&lt;DEADLINE FOR SUBMISSIONS>
 
-Full papers will be given preferential treatment over abstract-only submissions but all submissions will be given full consideration.
+### Shepherding process
 
-Submissions that the Programming Committee determines to be product pitches will be rejected.
+Our industry is full of experienced speakers who give great talks. But we also
+like to have new people talk at BSides!
 
-Again, **all official submissions must be received by 23:59 Zurich time (UTC+2), Wednesday, 29th of June.**
+To enourage first-time presenters to submit papers, we have been running a
+special opt-in “Shepherding program”. This is specifically geared towrads
+first-time presenters, but also experienced presenters who feel unsure about the
+format of their talk and whether it’s adapted to the conference.
 
-**Format and Rules**
+The program pairs submitters with some members of the Programm Committee, so
+that they spend some hours working together (usually asynchronously over email)
+to generate feedback and tweak the presentation so that it’s better suited for
+the conference format.
 
-* You have 20 minutes to give your presentation, so make sure you keep it short and sweet! The Q&A/Discussion session is about 45 minutes long and will give you plenty of time to go into more depth.
-* After all presentations are delivered, there will be a Q&A/Discussion session that will take place in separate rooms, one per speaker. The Q&A/Discussion sessions allow participants to go more in-depth on the topic(s) they are more interested in, and provide an opportunity to discuss and give input. We recommend that you end your presentation with questions that will encourage dialogue with your audience – people are often shy to start with!
-* The talk and slides must be in English.
+Some more details:
 
-Your talk will **NOT be picked** IF:
+- The program is completely opt-in, but we do ask pariticpants to commit to
+  working on the feedback from their mentors to make it worth everyone’s time;
+- The Program Committe does not take participation into the shepherding program
+  into account when picking talks; it is also not reflected in the program;
+- Going through the shepherding process **offers no guarantee that your talk
+  will get picked**, but it does increase the chances quite a bit.
+- Naturally, deadlines for participating in the shepherding program are about a
+  month earlier than for regular submissions.
 
-* It does not fit the submission format (20 minutes talk, fitting Q&A/Discussion model)
-* It’s a sales pitch or review of a single product.
-* Your presentation includes demos or videos (it’s OK to keep them for the Q&A/Discussion session)
-* We cannot adequately assess your submission; make sure to put sufficient care, attention, and time into it.
+&lt;HOW TO PARTICIPATE>
 
-We are looking for a diverse set of topics in the area of information security such as, but not limited to:
+&lt;DEADLINE FOR SHEPHERDING PROGRAM>
 
-* Reverse Engineering
-* Web Application Security
-* Network Security
-* Digital Forensics / Incident Response (DFIR)
-* Threat Intelligence
-* Software/Hardware Exploitation
-* Cryptography
-* … you name it!
+### Selection process
 
-Submissions will be reviewed by our Program Committee and will be chosen on a “number of votes” basis.
+Once all submissions are in, each submission gets reviewed by a subset (~25%) of
+the Program Committe and rated according to criteria like technical depth,
+novelty, potential for creating interesting discussion, etc. After all ratings
+are in, the organizers and PC members meet and pick the talks that made it to
+the top in most situations.
 
-If everything is clear and you are still convinced you can rock the stage then you are what we are looking for. Follow the CfP application form link and apply to our CfP.
+Tips for good submissions:
 
-A sample submission can be found online here. We provide this as a general example. Your detailed outline need not look like ours, but it should be more than enough information to convince us of the merit of your talk.
+- **Make sure** to respect the format (20 minutes talk, adapted to the breakout
+  session model)
+- Please **no sales pitches** or single product reviews.
+- **No demos** or videos in your talk (it’s OK to keep them for the
+  Q&A/Discussion session)
+- Make sure to put sufficient care, attention, and time into your submission. If
+  it’s botched or unclear and we’re not able to properly evaluate it, we won’t
+  accept it
 
-If you have any doubts or questions about the CfP, please reach out to us via email (bsideszh [at] gmail [dot] com) or Twitter @BSidesZurich
+&lt;COMMUNICATION TO SPEAKERS DATE>
+
+## Timeline and deadlines
+
+Deadline for opting-into the shepherding program: TBD
+
+Deadline for submissions: TBD
+
+Program committe review: TBD
+
+Talk selection: TBD
+
+Communication to speakers: TBD
+
+Submit a talk:
+
+Opt-in to shepherding:
+
+If you have any doubts or questions about the CfP, please reach out to us via
+email (bsideszh [at] gmail [dot] com) or
+[@BSidesZurich](https://twitter.com/BSidesZurich) on Twitter.
 
 ## Program Committee
 
-* Pasquale Stirparo @pstirparo
-* Lorenzo Riccucci @vacmf
-* Candid Wüest @mylaocoon
-* Thomas Chopitea @tomchop_
-* Lauren Hamme
-* Stefan Friedli @stfn42
-* Chris John Riley @ChrisJohnRiley
-* Andrea Hauser @aha_181
-* Frédéric Le Bastard
-* Antonio Sanso @asanso
-* Christine Fossaceca @x71n3
-* Tom Ueltschi @c_APT_ure
-* Thomas Roccia @fr0gger_
-* Maciej Kotowicz @maciekkotowicz
-* Michael Schneider @0x6d69636b
-* Maria “Azeria” Markstedter @Fox0x01
-* Alexandra Sandulescu
-* … more to come
+- Pasquale Stirparo [@pstirparo](https://twitter.com/pstirparo)
+- Lorenzo Riccucci [@vacmf](https://twitter.com/vacmf)
+- Candid Wüest [@mylaocoon](https://twitter.com/mylaocoon)
+- Thomas Chopitea [@tomchop\_](https://twitter.com/tomchop_)
+- Lauren Hamme
+- Stefan Friedli [@stfn42](https://twitter.com/stfn42)
+- Chris John Riley [@ChrisJohnRiley](https://twitter.com/ChrisJohnRiley)
+- Andrea Hauser [@aha_181](https://twitter.com/aha_181)
+- Frédéric Le Bastard
+- Antonio Sanso [@asanso](https://twitter.com/asanso)
+- Christine Fossaceca [@x71n3](https://twitter.com/x71n3)
+- Tom Ueltschi [@c_APT_ure](https://twitter.com/c_APT_ure)
+- Thomas Roccia [@fr0gger\_](https://twitter.com/fr0gger_)
+- Maciej Kotowicz [@maciekkotowicz](https://twitter.com/maciekkotowicz)
+- Michael Schneider [@0x6d69636b](https://twitter.com/0x6d69636b)
+- Maria “Azeria” Markstedter
