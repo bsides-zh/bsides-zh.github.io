@@ -11,6 +11,7 @@ SectionPagesMenu = "main"
   site_logo = "images/bsides_logo_blue.jpg"
   mainSections = ["updates"]
   custom_css = ["custom.css"]
+  body_classes = "avenir bg-near-white"
 
 [[params.ananke_socials]]
   name = "twitter"
