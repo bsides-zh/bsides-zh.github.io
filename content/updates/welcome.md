@@ -1,8 +1,8 @@
 ---
-title: "Welcome to BSides Zurich"
+title: "We have a new website!"
 date: 2023-03-05T16:55:28Z
 draft: true
 ---
 
 
-Welcome welcome
+We have a new website!
