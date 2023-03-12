@@ -59,7 +59,7 @@ bsideszh [at] gmail [dot] com
 
 # Acknowledgements
 
-We would like to thank Kelsey Brown (@kelseybrownuk) from Yerra Solutions for
+We would like to thank Kelsey Brown ([@kelseybrownuk](https://twitter.com/kelseybrownuk)) from Yerra Solutions for
 providing us with an amazing logo,and Ana Barbosa from BinaryEdge for crafting
 all the great pieces of graphics for BSidesZH!!!
 
