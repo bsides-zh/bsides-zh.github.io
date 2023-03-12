@@ -4,7 +4,7 @@ date: 2023-03-05T17:32:12Z
 draft: false
 menu:
   main:
-    weight: 1
+    weight: 3
 ---
 
 Registration details to be announced. Stay tuned!

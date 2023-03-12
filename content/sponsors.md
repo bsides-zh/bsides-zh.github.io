@@ -4,7 +4,7 @@ date: 2023-03-05T17:56:20Z
 draft: false
 menu:
   main:
-    weight: 3
+    weight: 4
 ---
 
 There are several sponsorship opportunities that come with different benefits

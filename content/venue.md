@@ -4,7 +4,7 @@ date: 2023-03-05T17:39:22Z
 draft: false
 menu:
   main:
-    weight: 4
+    weight: 5
 ---
 
 Venue BSides Zurich 2023 will be hosted again by Open Systems AG at their
