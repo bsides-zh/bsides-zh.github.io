@@ -13,19 +13,19 @@ gmail [dot] com_.
 
 # Platinum Sponsors
 
+{{< figure src="/images/spo/os.png" height="300px" class="img-center mt0" >}}
 {{< figure src="/images/spo/google.png" height="170px" class="img-center">}}
-{{< figure src="/images/spo/os.png" height="200px" class="img-center" >}}
-{{< figure src="/images/spo/six.png" height="150px" class="img-center" >}}
+{{< figure src="/images/spo/six.png" height="130px" class="img-center" >}}
 
-# Gold Sponsors
+## Gold Sponsors
 
 {{< figure src="/images/spo/sans.jpeg" height="200px" >}}
 
-# Silver Sponsors
+## Silver Sponsors
 
 {{< figure src="/images/spo/nostarch.png" height="200px" >}}
 
-# Supporting Organizations
+## Supporting Organizations
 
 {{< figure src="/images/spo/dc4131.png" height="80px"  class="fl ma3" >}}
 {{< figure src="/images/spo/itfb.png" height="80px" class="fl ma3" >}}
