@@ -2,6 +2,7 @@ baseURL = "https://bsideszh.ch/"
 languageCode = 'en-us'
 title = 'BSides Zurich'
 theme = 'ananke'
+enableRobotsTXT = true
 
 SectionPagesMenu = "main"
 
