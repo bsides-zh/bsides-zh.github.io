@@ -153,7 +153,7 @@ Useful links:
 If you have any doubts or questions about the CfP, please reach out to us via
 email (bsideszh [at] gmail [dot] com) or Twitter @BSidesZurich
 
-### **Program Committee**
+## Program Committee
 
 - Pasquale Stirparo @pstirparo
 - Lorenzo Riccucci @vacmf
