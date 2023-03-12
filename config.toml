@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
   text_color = "dark-gray"
   rel = "me noopener"
   site_logo = "images/bsides_logo_blue.jpg"
+  favicon = "images/bszhicon.png"
   mainSections = ["updates"]
   custom_css = ["custom.css"]
   body_classes = "avenir bg-near-white"
