@@ -11,20 +11,20 @@ toc: true
 ## Conference format
 
 We want BSides Zurich to be a different kind of conference, where attendees and
-speakers have a real opportunity to mingle and engage in active discussion. In
+speakers have a real opportunity to mingle and engage in active discussions. In
 order to achieve this, we chose an atypical conference format that our attendees
 have really enjoyed.
 
 There are a total of 6 talks plus a keynote, all in English. Talks are grouped
 by 3 and are divided into two sessions (morning and afternoon). Each talk is
 only 20 minutes long, and after the 3 morning talks, each speaker gets an
-assigned room and organizes a 30-minute-long breakout “discussion” session.
-Participants can pick the talk that interested them the most and attend that
-session. Or they can just ask a few questions, and hop onto another session!
-Think of discussion sessions as a 30-minute-long Q&A where participants and
-speakers can really take time to ask and answer questions, deep-dive into that
-demo, and get into the nitty-gritty details of their topic. The same happens
-after lunch, in the afternoon.
+assigned room for a 30-minute-long breakout “discussion” session. Participants
+can pick the talk that interested them the most and attend that session. Or they
+can just ask a few questions, and hop onto another session! Think of discussion
+sessions as a 30-minute-long Q&A where participants and speakers can really take
+time to ask and answer questions, deep-dive into that demo, and get into the
+nitty-gritty details of their topic. The same happens after lunch, in the
+afternoon.
 
 A typical day at BSides Zurich goes like this:
 
@@ -48,7 +48,7 @@ Afternoon session
 17:00 – Social Drinks
 ```
 
-In a nutshell, as a speaker you should rememebr to **prepare a talk that can be
+In a nutshell, as a speaker you should remember to **prepare a talk that can be
 given in 20 minutes**, and **enough material for a 30-minute-long Q&A**.
 
 ## Submitting a talk
@@ -56,7 +56,7 @@ given in 20 minutes**, and **enough material for a 30-minute-long Q&A**.
 As mentioned above, your talk should be **20 minutes long**, and provide enough
 discussion points for **about a half hour of Q&A** session.
 
-The process for submitting is fairly straightofrward - provide an abstract of
+The process for submitting is fairly straightforward - provide an abstract of
 your talk (ideally with an outline of the points you’re planning to cover, and
 some discussion points you’re planning to raise during your breakout session)
 and send it to us. <!-- TODO: EASYCHAIR / CPF PLATFORM -->
@@ -103,7 +103,7 @@ Some more clarifications:
   reflected in the conference agenda, or otherwise shared outside the Program
   Committee;
 - Going through the mentoring program **offers no guarantee that your talk will
-  get picked**, but it does increase the chances quite a bit.
+  get selected, but it does increase the chances quite a bit.
 - Naturally, deadlines for participating in the mentoring program are about a
   month earlier than for regular submissions.
 
@@ -151,25 +151,8 @@ Useful links:
 - Opt-in to mentoring
 
 If you have any doubts or questions about the CfP, please reach out to us via
-email (bsideszh [at] gmail [dot] com) or Twitter @BSidesZurich
+email (bsideszh [at] gmail [dot] com) or on Twitter [@BSidesZurich](https://twitter.com/BSidesZurich).
 
 ## Program Committee
 
-- Pasquale Stirparo @pstirparo
-- Lorenzo Riccucci @vacmf
-- Candid Wüest @mylaocoon
-- Thomas Chopitea @tomchop\_
-- Lauren Hamme
-- Stefan Friedli @stfn42
-- Chris John Riley @ChrisJohnRiley
-- Andrea Hauser @aha_181
-- Frédéric Le Bastard
-- Antonio Sanso @asanso
-- Christine Fossaceca @x71n3
-- Tom Ueltschi @c_APT_ure
-- Thomas Roccia @fr0gger\_
-- Maciej Kotowicz @maciekkotowicz
-- Michael Schneider @0x6d69636b
-- Maria “Azeria” Markstedter @Fox0x01
-- Alexandra Sandulescu
-- … more to come
+To be announced.
