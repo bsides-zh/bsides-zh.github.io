@@ -47,21 +47,19 @@ more.
 - Lauren Hamme
 - Lorenzo Riccucci ([@vacmf](https://twitter.com/vacmf))
 - Pasquale Stirparo ([@pstirparo](https://twitter.com/pstirparo))
+- Steve Micallef  ([@binarypool](https://twitter.com/binarypool))
 - Thomas Chopitea ([@tomchop\_](https://twitter.com/tomchop_))
-  <!-- * Urs Burkhard -->
-  <!-- * Joachim Metz -->
-  <!-- * Steve Micallef  ([@binarypool](https://twitter.com/binarypool)) -->
 
 # Volunteers
 
-Help is always welcome!!! If you would like to volunteer please email us at
-bsideszh [at] gmail [dot] com
+Help is always welcome! If you would like to volunteer please email us at
+bsideszh [at] gmail [dot] com.
 
 # Acknowledgements
 
 We would like to thank Kelsey Brown ([@kelseybrownuk](https://twitter.com/kelseybrownuk)) from Yerra Solutions for
 providing us with an amazing logo,and Ana Barbosa from BinaryEdge for crafting
-all the great pieces of graphics for BSidesZH!!!
+all the great pieces of graphics for BSidesZH!
 
 # Contact us
 
