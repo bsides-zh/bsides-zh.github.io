@@ -47,10 +47,8 @@ more.
 - Lauren Hamme
 - Lorenzo Riccucci ([@vacmf](https://twitter.com/vacmf))
 - Pasquale Stirparo ([@pstirparo](https://twitter.com/pstirparo))
+- Steve Micallef  ([@binarypool](https://twitter.com/binarypool))
 - Thomas Chopitea ([@tomchop\_](https://twitter.com/tomchop_))
-  <!-- * Urs Burkhard -->
-  <!-- * Joachim Metz -->
-  <!-- * Steve Micallef  ([@binarypool](https://twitter.com/binarypool)) -->
 
 # Volunteers
 
