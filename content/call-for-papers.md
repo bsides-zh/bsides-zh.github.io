@@ -74,10 +74,18 @@ To summarize:
 - We recommend that you end your presentation with questions that will encourage
   dialogue with your audience – people are often shy to start with!
 
-<!--
-TODO: LINK FOR SUBMITTING TALK>
-TODD: DEADLINE FOR SUBMISSIONS>
--->
+{{< raw-html >}}
+<div class="bg-light-yellow ph4 pv1 ma4 bl b--yellow br3 bw3">
+{{< /raw-html >}}
+
+**Submit a talk**: (coming soon!)
+
+**Deadline for submissions**: 2023-06-01 23:59:59 CET
+
+{{< raw-html >}}
+</div>
+{{< /raw-html >}}
+
 
 ### Mentoring program
 
@@ -107,10 +115,16 @@ Some more clarifications:
 - Naturally, deadlines for participating in the mentoring program are about a
   month earlier than for regular submissions.
 
-<!--
-TODO: HOW TO PARTICIPATE IN MENTORING PROGRAM
-TODO: DEADLINE FOR MENTORING PROGRAM
--->
+{{< raw-html >}}
+<div class="bg-light-yellow ph4 pv1 ma4 bl b--yellow br3 bw3">
+{{< /raw-html >}}
+
+**Mentoring program opt-in**: (coming soon!)
+
+**Deadline for mentoring program opt-in**: 2023-05-18 23:59:59 CET
+{{< raw-html >}}
+</div>
+{{< /raw-html >}}
 
 ### Selection process
 
@@ -135,20 +149,18 @@ Tips for good submissions:
 
 ## Timeline, deadlines and links
 
-Deadline for opting-into the mentoring program: TBD
+Deadline for opting-into the mentoring program: 2023-05-18 23:59:59 CET
 
-Deadline for submissions: TBD
+Deadline for submissions: 2023-06-01 23:59:59 CET
 
-Program committee review: TBD
+Program Committee review: TBA
 
-Talk selection: TBD
-
-Communication to speakers: TBD
+Communication to speakers: TBA
 
 Useful links:
 
-- Submit a talk
-- Opt-in to mentoring
+- Submit a talk: (coming soon!)
+- Opt-in to mentoring: (coming soon!)
 
 If you have any doubts or questions about the CfP, please reach out to us via
 email (bsideszh [at] gmail [dot] com) or on Twitter [@BSidesZurich](https://twitter.com/BSidesZurich).
