@@ -20,7 +20,6 @@ featured_image_desc: "BSides Zurich logo"
 - Marc Ruef [@mruef](https://twitter.com/mruef)
 - Chris John Riley [@ChrisJohnRiley](https://twitter.com/ChrisJohnRiley)
 
-
 ## Organization Committee
 
 - Pasquale Stirparo [@pstirparo](https://twitter.com/pstirparo)

@@ -25,10 +25,10 @@ featured_image_desc: "BSides Zurich logo"
 
 ## Organization Committee
 
-- Pasquale Stirparo [@pstirparo](https://twitter.com/pstirparo)
-- Lorenzo Riccucci [@vacmf](https://twitter.com/vacmf)
-- Joachim Metz
-- Urs Burkhard
-- Candid Wüest [@mylaocoon](https://twitter.com/mylaocoon)
-- Thomas Chopitea [@tomchop\_](https://twitter.com/tomchop_)
-- Steve Micallef [@binarypool](https://twitter.com/binarypool)
+* Pasquale Stirparo [@pstirparo](https://twitter.com/pstirparo)
+* Lorenzo Riccucci [@vacmf](https://twitter.com/vacmf)
+* Joachim Metz
+* Urs Burkhard
+* Candid Wüest [@mylaocoon](https://twitter.com/mylaocoon)
+* Thomas Chopitea [@tomchop\_](https://twitter.com/tomchop_)
+* Steve Micallef [@binarypool](https://twitter.com/binarypool)

@@ -23,7 +23,7 @@ Pwn2Own from 2010 to 2012.
 
 ### Angad: A Malware Detection Framework using Multi-Dimensional Visualization [Slides](/archives/2018/BSZH18-AnkurTyagi-angad.pdf)
 
-_Ankur Tyagi ([@7h3rAm](https://twitter.com/7h3rAm), https://github.com/7h3rAm)_
+_Ankur Tyagi ([@7h3rAm](https://twitter.com/7h3rAm), <https://github.com/7h3rAm>)_
 
 Angad is a framework to automate classification of an unlabelled malware dataset
 using multi-dimensional modelling. The input dataset is analyzed to collect
@@ -40,7 +40,7 @@ dataset.
 ### Building a End-to-End Open Source Container Security Stack
 
 _Henri Dubois-Ferriere ([@henridf](https://twitter.com/henridf),
-https://github.com/henridf)_
+<https://github.com/henridf>)_
 
 Cloud Native platforms such as Kubernetes help developers to easily get started
 deploying and running their applications at scale. But as developers push out

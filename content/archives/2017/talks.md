@@ -28,7 +28,7 @@ travel, read, and surf. Since November 2016, he is back at Google.
 
 ### Nail in the JKS coffin [Slides](/archives/2017/BSidesZH_tobias_ospelt_nail_in_the_jks_coffin.pdf)
 
-Tobias Ospelt (@floyd_ch, https://github.com/floyd-fuh/)
+Tobias Ospelt (@floyd_ch, <https://github.com/floyd-fuh/>)
 
 The Java Key Store (JKS) is the Java way of storing one or several cryptographic
 private and public keys for asymmetric cryptography in a file. While there are
@@ -48,7 +48,7 @@ higher cracking speeds on GPUs.
 
 ### How I met your browser: going incognito doesn’t hide your browsing from Ragamuffin [Slides](/archives/2017/BSides-Zurich-How_I_Met_Your_Browser.pdf)
 
-Alessandro De Vito (@\_cube0x8, https://github.com/MalfurionStormrage/)
+Alessandro De Vito (@\_cube0x8, <https://github.com/MalfurionStormrage/>)
 
 Nowadays, the browser represents the gate between a human and its virtual world;
 all this makes it one of the most challenging attack vectors and a source of
@@ -80,7 +80,7 @@ referred to as APT29.
 
 ### The Social Networks of the Security Community [Slides](/archives/2017/BSidesZH-Jeroen-TheSocialNetworksOfTheSecurityCommunity.pdf)
 
-Jeroen Massar (@jrmassar, https://github.com/massar)
+Jeroen Massar (@jrmassar, <https://github.com/massar>)
 
 The word Networking has two meanings in the ears of today’s computer engineer:
 the Internet and “social network”. Both are dear to the heart of many in the
@@ -103,7 +103,7 @@ events being organised.
 
 ### Breaking security controls using subdomain hijacking [Slides](/static/archives/2017/bsideszh-Daniel.pdf)
 
-Daniel Stirnimann (@seckle_ch, https://github.com/stirnim)
+Daniel Stirnimann (@seckle_ch, <https://github.com/stirnim>)
 
 Todays Internet heavily makes use of DNS. Not only to communicate with a target
 host but also for retrieving additional information for a domain name. In fact,

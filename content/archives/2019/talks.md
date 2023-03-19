@@ -112,8 +112,8 @@ presented in a short computer architecture primer.
 
 _Julien Voisin_
 
-Nos Oignons is a French association (https://nos-oignons.net) created in 2013
-with the goal of running large Tor (https://torproject.org) exit nodes. Running
+Nos Oignons is a French association (<https://nos-oignons.net>) created in 2013
+with the goal of running large Tor (<https://torproject.org>) exit nodes. Running
 this kind of service can be challenging, both from a technical than from a
 social point of view: interactions with Law Enforcement Officers, dealing with
 attacks and spams, fighting the negative image of the Tor network, etc. But in
