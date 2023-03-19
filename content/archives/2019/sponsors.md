@@ -6,10 +6,6 @@ featured_image: "/images/bsides_logo_blue.jpg"
 featured_image_desc: "BSides Zurich logo"
 ---
 
-There are several sponsorship opportunities that come with different benefits
-for your company. If you are interested, please contact us at: _bsideszh [at]
-gmail [dot] com_.
-
 # Platinum Sponsors
 
 {{< figure src="/images/spo/os.png" height="300px" class="img-center mt0" >}}
