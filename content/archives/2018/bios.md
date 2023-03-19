@@ -6,7 +6,7 @@ featured_image: "/images/bsides_logo_blue.jpg"
 featured_image_desc: "BSides Zurich logo"
 ---
 
-**Ankur Tyagi** ([@7h3rAm](https://twitter.com/7h3rAm))
+### Ankur Tyagi ([@7h3rAm](https://twitter.com/7h3rAm))
 
 Ankur Tyagi is a Sr. Malware Research Engineer at Qualys Inc., where he analyzes
 malicious code and applies statistical modelling to identify suspicious patterns
@@ -14,7 +14,7 @@ and evolving trends. His research interests include structural visualization tec
 for classifying large collections of uncategorized samples. He has completed MS in
 Software Systems with focus on Applied Security from BITS-Pilani.
 
-**Dave Lewis** ([@gattaca](https://twitter.com/gattaca))
+### Dave Lewis ([@gattaca](https://twitter.com/gattaca))
 
 Dave Lewis has more than two decades of industry experience. He has extensive experience
 in IT security operations and management. Currently, Dave is an Advisory CISO – Global
@@ -23,7 +23,7 @@ and cohost of the Liquidmatrix podcast. Dave serves on the advisory boards for C
 Insight and Dateva Inc. Additionally, he writes columns for Forbes, Daily Swig, CSO
 Online, TV Technology and Dark Reading.
 
-**Florian Egloff** ([@egflo](https://twitter.com/egflo))
+### Florian Egloff ([@egflo](https://twitter.com/egflo))
 
 Florian Egloff is a Senior Researcher in Cybersecurity with the Center for Security
 Studies at the ETH Zurich. His research focuses on the politics of cyber security,
@@ -39,7 +39,7 @@ the Centre for Doctoral Training in Cyber Security (both at the University of Ox
 His professional background includes working for the Swiss Federal Department of
 Foreign Affairs and in banking.
 
-**Henri Dubois-Ferriere** ([@henridf](https://twitter.com/henridf),
+### Henri Dubois-Ferriere ([@henridf](https://twitter.com/henridf),
 [https://github.com/henridf](https://github.com/henridf))
 
 Henri is an engineer and entrepreneur focused on infrastructure technology and
@@ -47,8 +47,7 @@ products. He created the original version of Sysdig Falco, the open source runti
 security and forensics tool. He currently works at Sysdig at the intersection of
 monitoring and security.
 
-**Raphael M. Reischuk**
-(_[@raphaelreischuk](https://twitter.com/raphaelreischuk)_)
+### Raphael M. Reischuk (_[@raphaelreischuk](https://twitter.com/raphaelreischuk)_)
 
 Raphael M. Reischuk is researcher and consultant at Zühlke Engineering. He is a member
 of several international program committees for information security; he is a frequent
@@ -61,7 +60,7 @@ at CISPA and Cornell University and graduated with distinction. At ETH Zurich, h
 has done research and teaching on secure Internet architectures and co-developed
 SCION.
 
-**Saurabh Swaroop**
+### Saurabh Swaroop
 
 I am security researcher with around 6 years of experience in cyber security domain.
 Areas of Interest – Reverse Engineering, Malware Analysis and Exploit Writing.
