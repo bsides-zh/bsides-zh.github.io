@@ -39,8 +39,7 @@ the Centre for Doctoral Training in Cyber Security (both at the University of Ox
 His professional background includes working for the Swiss Federal Department of
 Foreign Affairs and in banking.
 
-### Henri Dubois-Ferriere ([@henridf](https://twitter.com/henridf),
-[https://github.com/henridf](https://github.com/henridf))
+### Henri Dubois-Ferriere ([@henridf](https://twitter.com/henridf), [https://github.com/henridf](https://github.com/henridf))
 
 Henri is an engineer and entrepreneur focused on infrastructure technology and
 products. He created the original version of Sysdig Falco, the open source runtime
