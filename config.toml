@@ -22,4 +22,4 @@ SectionPagesMenu = "main"
 
 [[params.ananke_socials]]
   name = "mastodon"
-  url = "https://infosec.exchange/BSidesZurich"
+  url = "https://infosec.exchange/@BSidesZurich"
