@@ -1,14 +1,14 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
   <div class="flex-l mt4 mw8 center bg-white">
-    <article class="center cf pv2 ph3 ph4-ns tj">
+    <article class="center cf pv2 ph3 ph4-ns tj-ns">
       <header>
         <h1 class="f1 fw5 dark-gray mb5">
           {{ .Title }}
         </h1>
       </header>
       {{ partial "toc.html" . }}
-      <div class="nested-copy-line-height tj lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+      <div class="nested-copy-line-height tj-ns lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
         {{ .Content }}
       </div>
     </article>

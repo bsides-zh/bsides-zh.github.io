@@ -15,15 +15,17 @@
           <!-- <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}"> -->
             <ul class="pl0 mr3 mv0">
             {{ range .Site.Menus.main }}
-            <li class="{{ cond ($currentPage.IsMenuCurrent "main" .) "bg-dark-gray" "hover-bg-dark-gray" }} bg-animate list f5 f4-ns fw2 ph4 dib">
-              <a class="hover-white no-underline white-90 pv4 ph2 db" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+            <li class="{{ cond ($currentPage.IsMenuCurrent "main" .) "bg-dark-gray" "hover-bg-dark-gray" }} bg-animate list f5 f4-ns fw2 ph4 dib-ns">
+              <a class="hover-white no-underline white-90 pv4-ns tc pv3 ph2 db" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
                 {{ .Name }}
               </a>
             </li>
             {{ end }}
           </ul>
         {{ end }}
+        <div class="dn db-ns">
         {{ partialCached "social-follow.html" . }}
+        </div>
       </div>
     </div>
   </nav>
