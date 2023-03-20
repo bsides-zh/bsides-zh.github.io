@@ -10,6 +10,18 @@ featured_image: "/images/bsides_logo_blue.jpg"
 featured_image_desc: "BSides Zurich logo"
 ---
 
+{{< raw-html >}}
+<div class="bg-washed-green ph4 pv1 ma4 br3">
+{{< /raw-html >}}
+
+**Date & place**: Saturday, 2023-09-09 (all day) in Zurich, Switzerland.
+
+**Deadline for submissions**: 2023-06-01 23:59:59 CET.
+
+{{< raw-html >}}
+</div>
+{{< /raw-html >}}
+
 ## What is BSides?
 
 Security BSides is a community-driven framework for building events by and for
