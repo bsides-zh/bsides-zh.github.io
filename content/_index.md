@@ -10,7 +10,7 @@ featured_image: "/images/bsides_logo_blue.jpg"
 featured_image_desc: "BSides Zurich logo"
 ---
 
-# What is BSides?
+## What is BSides?
 
 Security BSides is a community-driven framework for building events by and for
 information security community members. These events are already happening in
@@ -25,7 +25,7 @@ collaboration. It is an intense event with discussions, demos, and interaction
 from participants. It is where conversations for the next-big-thing are
 happening.
 
-# Why this conference?
+## Why this conference?
 
 Nowadays there are many conferences under the guise of cybersecurity,
 information security, digital forensics and incident response or equivalent, but
@@ -41,7 +41,7 @@ solutions, new attack/defense techniques, etc., and leave most of the time to
 discussions and exchange. Check the CfP and Agenda sections of the site to learn
 more.
 
-# Organizers
+## Organizers
 
 - Candid Wüest ([@mylaocoon](https://twitter.com/mylaocoon))
 - Lauren Hamme
@@ -50,18 +50,18 @@ more.
 - Steve Micallef  ([@binarypool](https://twitter.com/binarypool))
 - Thomas Chopitea ([@tomchop\_](https://twitter.com/tomchop_))
 
-# Volunteers
+## Volunteers
 
 Help is always welcome! If you would like to volunteer please email us at
 bsideszh [at] gmail [dot] com.
 
-# Acknowledgements
+## Acknowledgements
 
 We would like to thank Kelsey Brown ([@kelseybrownuk](https://twitter.com/kelseybrownuk)) from Yerra Solutions for
 providing us with an amazing logo,and Ana Barbosa from BinaryEdge for crafting
 all the great pieces of graphics for BSidesZH!
 
-# Contact us
+## Contact us
 
 For more information or questions about the conference, follow us on Twitter
 (@BSidesZurich) or contact us via email at bsideszh [at] gmail [dot] com
