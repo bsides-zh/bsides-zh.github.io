@@ -10,10 +10,10 @@ toc: true
 
 ## Conference format
 
-We want BSides Zurich to be a different kind of conference, where attendees and
-speakers have a real opportunity to mingle and engage in active discussions. In
-order to achieve this, we chose an atypical conference format that our attendees
-have really enjoyed.
+We want BSides Zurich to be a conference where attendees and speakers have a
+real opportunity to mingle and engage in active discussions. In order to achieve
+this, we chose an atypical conference format that our attendees have really
+enjoyed.
 
 There are a total of 6 talks plus a keynote, all in English. Talks are grouped
 by 3 and are divided into two sessions (morning and afternoon). Each talk is
@@ -48,13 +48,15 @@ Afternoon session
 17:00 – Social Drinks
 ```
 
-In a nutshell, as a speaker you should remember to **prepare a talk that can be
-given in 20 minutes**, and **enough material for a 30-minute-long Q&A**.
+In a nutshell, as a speaker you should remember to **prepare a talk that you can
+give in 20 minutes**, and **enough material for a 30-minute-long Q&A**.
 
 ## Submitting a talk
 
 As mentioned above, your talk should be **20 minutes long**, and provide enough
-discussion points for **about a half hour of Q&A** session.
+discussion points for **about a half hour of Q&A** session. If you've never
+presented before, we'd be very happy to [mentor](#mentoring-program) you to give
+you all the chances of producing a knockout talk!
 
 The process for submitting is fairly straightforward - provide an abstract of
 your talk (ideally with an outline of the points you’re planning to cover, and
@@ -75,6 +77,7 @@ To summarize:
   dialogue with your audience – people are often shy to start with!
 
 {{< raw-html >}}
+
 <div class="bg-light-yellow ph4 pv1 ma4 bl b--yellow br3 bw3">
 {{< /raw-html >}}
 
@@ -83,9 +86,9 @@ To summarize:
 **Deadline for submissions**: 2023-06-01 23:59:59 CET
 
 {{< raw-html >}}
+
 </div>
 {{< /raw-html >}}
-
 
 ### Mentoring program
 
@@ -93,9 +96,9 @@ Our industry is full of experienced speakers who give great talks. But we also
 like to have new people talk at BSides!
 
 To encourage first-time presenters to submit papers, we have been running a
-special opt-in mentoring program. This is specifically geared towards
-first-time presenters, but also experienced speakers who feel unsure about the
-format of their talk and whether it’s adapted to the conference.
+special opt-in mentoring program. This is specifically geared towards first-time
+presenters, but also experienced speakers who feel unsure about the format of
+their talk and whether it’s adapted to the conference.
 
 The program pairs potential presenters with some members of the Program
 Committee, so that they spend some hours working together (usually
@@ -106,16 +109,18 @@ Some more clarifications:
 
 - The program is completely opt-in, but we do ask participants to commit to
   working on the feedback from their mentors to make it worth everyone’s time;
-- The Program Committee does not take participation into the mentoring program
-  into account when picking talks. Participation into the program will not be
+- The Program Committee does not take participation in the mentoring program
+  into account when picking talks. Participation in the program will not be
   reflected in the conference agenda, or otherwise shared outside the Program
   Committee;
-- Going through the mentoring program **offers no guarantee that your talk will
-  get selected, but it does increase the chances quite a bit.
-- Naturally, deadlines for participating in the mentoring program are about a
-  month earlier than for regular submissions.
+- Although the resulting presentation will have higher chances of getting
+  accepted, **going through the mentoring program offers no guarantee that your
+  talk will get picked.**
+- Deadlines for participating in the mentoring program are about a month earlier
+  than for regular submissions.
 
 {{< raw-html >}}
+
 <div class="bg-light-yellow ph4 pv1 ma4 bl b--yellow br3 bw3">
 {{< /raw-html >}}
 
@@ -123,33 +128,34 @@ Some more clarifications:
 
 **Deadline for mentoring program opt-in**: 2023-05-18 23:59:59 CET
 {{< raw-html >}}
+
 </div>
 {{< /raw-html >}}
 
 ### Selection process
 
-Once all submissions are in, each submission gets reviewed by a subset (~25%) of
+After submission deadline is over, each submission gets reviewed by a subset of
 the Program Committee and rated according to criteria like technical depth,
-novelty, potential for creating interesting discussion, etc. After all ratings
-are in, the organizers and PC members meet and pick the talks that made it to
-the top in most situations.
+novelty, potential for creating interesting discussion, etc. When all ratings
+are in, the organizers and Program Committee members meet and pick the talks
+that made it to the top in most areas.
 
 Tips for good submissions:
 
 - Make sure to respect the format (20 minutes talk, adapted to the breakout
-  session model)
-- Please **no sales pitches** or single product reviews.
+  session model);
+- Please **no sales pitches** or single product reviews;
 - **No demos** or videos in your talk (it’s OK to keep them for the
-  Q&A/Discussion session)
+  Q&A/Discussion session);
 - Make sure to put sufficient care, attention, and time into your submission. If
   it’s botched or unclear and we’re not able to properly evaluate it, we won’t
-  accept it
+  accept it.
 
 <!-- TODO: COMMUNICATION TO SPEAKERS DATE -->
 
 ## Timeline, deadlines and links
 
-Deadline for opting-into the mentoring program: 2023-05-18 23:59:59 CET
+Deadline for opting-in to the mentoring program: 2023-05-18 23:59:59 CET
 
 Deadline for submissions: 2023-06-01 23:59:59 CET
 
@@ -162,8 +168,9 @@ Useful links:
 - Submit a talk: (coming soon!)
 - Opt-in to mentoring: (coming soon!)
 
-If you have any doubts or questions about the CfP, please reach out to us via
-email (bsideszh [at] gmail [dot] com) or on Twitter [@BSidesZurich](https://twitter.com/BSidesZurich).
+If you have any doubts or questions about the Call for Papers, please reach out
+to us via email (bsideszh [at] gmail [dot] com) or on Twitter
+[@BSidesZurich](https://twitter.com/BSidesZurich).
 
 ## Program Committee
 
