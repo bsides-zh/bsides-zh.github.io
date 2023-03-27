@@ -20,6 +20,8 @@ featured_image_desc: "BSides Zurich logo"
 
 **Deadline for submissions**: 2023-06-01 23:59:59 CET.
 
+**Deadline for mentoring program opt-in**: 2023-05-18 23:59:59 CET
+
 {{< raw-html >}}
 </div>
 {{< /raw-html >}}
