@@ -53,15 +53,28 @@ give in 20 minutes**, and **enough material for a 30-minute-long Q&A**.
 
 ## Submitting a talk
 
+{{< callout "green" >}}
+
+**Submit a talk**:
+[https://pretalx.com/bsides-zh-2023/cfp](https://pretalx.com/bsides-zh-2023/cfp)
+
+**Deadline for submissions**: 2023-06-01 23:59:59 CET
+
+{{< /callout >}}
+
 As mentioned above, your talk should be **20 minutes long**, and provide enough
 discussion points for **about a half hour of Q&A** session. If you've never
 presented before, we'd be very happy to [mentor](#mentoring-program) you to give
 you all the chances of producing a knockout talk!
 
+_We would like to specifically encourage people from underrepresented groups to
+submit a talk_. We are committed to providing the safe and welcoming environment
+for everyone.
+
 The process for submitting is fairly straightforward - provide an abstract of
 your talk (ideally with an outline of the points you’re planning to cover, and
 some discussion points you’re planning to raise during your breakout session)
-and send it to us. <!-- TODO: EASYCHAIR / CPF PLATFORM -->
+and send it to us.
 
 The main topic, as you may have guessed, is cybersecurity, and any topic goes:
 reverse engineering, application security, forensics, incident response, threat
@@ -76,21 +89,13 @@ To summarize:
 - We recommend that you end your presentation with questions that will encourage
   dialogue with your audience – people are often shy to start with!
 
-{{< raw-html >}}
-
-<div class="bg-light-yellow ph4 pv1 ma4 bl b--yellow br3 bw3">
-{{< /raw-html >}}
-
-**Submit a talk**: (coming soon!)
-
-**Deadline for submissions**: 2023-06-01 23:59:59 CET
-
-{{< raw-html >}}
-
-</div>
-{{< /raw-html >}}
-
 ### Mentoring program
+
+{{< callout "green" >}} **Mentoring program opt-in**: email us at
+`bsideszh [at] gmail [dot] com`.
+
+**Deadline for mentoring program opt-in**: 2023-05-18 23:59:59 CET
+{{< /callout >}}
 
 Our industry is full of experienced speakers who give great talks. But we also
 like to have new people talk at BSides!
@@ -118,19 +123,6 @@ Some more clarifications:
   talk will get picked.**
 - Deadlines for participating in the mentoring program are about a month earlier
   than for regular submissions.
-
-{{< raw-html >}}
-
-<div class="bg-light-yellow ph4 pv1 ma4 bl b--yellow br3 bw3">
-{{< /raw-html >}}
-
-**Mentoring program opt-in**: (coming soon!)
-
-**Deadline for mentoring program opt-in**: 2023-05-18 23:59:59 CET
-{{< raw-html >}}
-
-</div>
-{{< /raw-html >}}
 
 ### Selection process
 
@@ -165,11 +157,11 @@ Communication to speakers: TBA
 
 Useful links:
 
-- Submit a talk: (coming soon!)
-- Opt-in to mentoring: (coming soon!)
+- **Submit a talk**: [Pretalx](https://pretalx.com/bsides-zh-2023/cfp)
+- **Opt-in to mentoring**: Send an email to `bsideszh [at] gmail [dot] com`
 
 If you have any doubts or questions about the Call for Papers, please reach out
-to us via email (bsideszh [at] gmail [dot] com) or on Twitter
+to us via email (`bsideszh [at] gmail [dot] com`) or on Twitter
 [@BSidesZurich](https://twitter.com/BSidesZurich).
 
 ## Program Committee

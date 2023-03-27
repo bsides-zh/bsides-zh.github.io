@@ -1,6 +1,6 @@
 ---
 title: "Our Call For Papers is now open!"
-date: 2023-03-14T12:42:39Z
+date: 2023-03-27T12:42:39Z
 draft: false
 summary: "You have until June 01 midnight CET to submit proposals!"
 ---

@@ -16,6 +16,8 @@ featured_image_desc: "BSides Zurich logo"
 
 **Date & place**: Saturday, 2023-09-09 (all day) in Zurich, Switzerland.
 
+**Submit to our CfP**: [https://pretalx.com/bsides-zh-2023/cfp](https://pretalx.com/bsides-zh-2023/cfp)
+
 **Deadline for submissions**: 2023-06-01 23:59:59 CET.
 
 {{< raw-html >}}
