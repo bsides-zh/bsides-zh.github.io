@@ -7,7 +7,7 @@ menu:
     weight: 4
 ---
 
-Sponsors are still being announced. You cana also check [out our sponors
+Sponsors are still being announced. You can also check [out our sponors
 from 2022]({{< ref "archives/2022/sponsors.md" >}})!
 
 ## Platinum Sponsors
