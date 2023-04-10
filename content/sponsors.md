@@ -13,6 +13,7 @@ from 2022]({{< ref "archives/2022/sponsors.md" >}})!
 ## Platinum Sponsors
 
 {{< figure src="/images/spo/ontinue.png" class="img-center mt0" >}}
+{{< figure src="/images/spo/switch-logo.png" class="img-center mt0" >}}
 
 ## Gold sponsors
 
