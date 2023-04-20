@@ -166,4 +166,16 @@ to us via email (`bsideszh [at] gmail [dot] com`) or on Twitter
 
 ## Program Committee
 
-To be announced.
+- Alexandra Sandulescu
+- Andrea Hauser [@aha_181](https://twitter.com/aha_181)
+- Antonio Sanso [@asanso](https://twitter.com/asanso)
+- Christine Fossaceca [@x71n3](https://twitter.com/x71n3)
+- Maciej Kotowicz [@maciekkotowicz](https://twitter.com/maciekkotowicz)
+- Michael Schneider [@0x6d69636b](https://twitter.com/0x6d69636b)
+- Pasquale Stirparo [@pstirparo](https://twitter.com/pstirparo)
+- Stefan Friedli [@stfn42](https://twitter.com/stfn42)
+- Thomas Chopitea [@tomchop_](https://twitter.com/tomchop_)
+- Thomas Roccia [@fr0gger_](https://twitter.com/fr0gger_)
+- Tom Ueltschi [@c_APT_ure](https://twitter.com/c_APT_ure)
+
+... and more to come!
