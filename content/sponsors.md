@@ -21,8 +21,12 @@ To be announced.
 
 ## Silver sponsors
 
-To be announced.
+{{< figure src="/images/spo/nostarch.png" height="200px" >}}
 
-## Supporting organizations
+## Supporting Organizations
 
-To be announced.
+{{< figure src="/images/spo/dc4131.png" height="80px"  class="fl ma3" >}}
+{{< figure src="/images/spo/itfb.png" height="80px" class="fl ma3" >}}
+{{< figure src="/images/spo/owaspch.png" height="80px" class="fl ma3" >}}
+{{< figure src="/images/spo/honeynet.png" height="80px" class="fl ma3" >}}
+{{< figure src="/images/spo/nohat.png" height="80px" class="fl ma3" >}}
