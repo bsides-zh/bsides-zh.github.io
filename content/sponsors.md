@@ -14,6 +14,7 @@ from 2022]({{< ref "archives/2022/sponsors.md" >}})!
 
 {{< figure src="/images/spo/ontinue.png" class="img-center mt0" >}}
 {{< figure src="/images/spo/switch-logo.png" class="img-center mt0" >}}
+{{< figure src="/images/spo/six.png" class="img-center mt0" >}}
 
 ## Gold sponsors
 
@@ -26,6 +27,7 @@ To be announced.
 ## Supporting Organizations
 
 {{< figure src="/images/spo/dc4131.png" height="80px"  class="fl ma3" >}}
+{{< figure src="/images/spo/rhacklette.png" height="80px" class="fl ma3" >}}
 {{< figure src="/images/spo/itfb.png" height="80px" class="fl ma3" >}}
 {{< figure src="/images/spo/owaspch.png" height="80px" class="fl ma3" >}}
 {{< figure src="/images/spo/honeynet.png" height="80px" class="fl ma3" >}}
