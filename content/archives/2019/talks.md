@@ -125,7 +125,7 @@ network!
 
 ### Swiss Cybervoting PIT(falls)
 
-- [Slides](/static/archives/2019/BSidesZH19-J_Kirschner-Swiss_Cybervoting_PIT_falls.pdf)
+- [Slides](/archives/2019/BSidesZH19-J_Kirschner-Swiss_Cybervoting_PIT_falls.pdf)
 
 _Jannis Kirschner ([@xorkiwi](https://twitter.com/xorkiwi))_
 
@@ -147,7 +147,7 @@ critical infrastructure.
 
 ### Why Johnny can’t scan at hyperscale – Tales and adventures building security scanning at Google
 
-- [Slides](/static/archives/2019/BSidesZH19-SLekies_CCriscione-Why_johnny_cant_scan_at_hyperscale.pdf)
+- [Slides](/archives/2019/BSidesZH19-SLekies_CCriscione-Why_johnny_cant_scan_at_hyperscale.pdf)
 
 _Claudio Criscione ([@paradoxengine](https://twitter.com/paradoxengine)),
 Sebastian Lekies ([@slekies](https://twitter.com/slekies))_

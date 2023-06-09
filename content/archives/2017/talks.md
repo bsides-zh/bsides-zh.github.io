@@ -101,7 +101,7 @@ proactively setup communications to make sure that people who are not in one’s
 bubble know how to reach you too and which drink is preferred to be drunk at the
 events being organised.
 
-### Breaking security controls using subdomain hijacking [Slides](/static/archives/2017/bsideszh-Daniel.pdf)
+### Breaking security controls using subdomain hijacking [Slides](/archives/2017/bsideszh-Daniel.pdf)
 
 Daniel Stirnimann (@seckle_ch, <https://github.com/stirnim>)
 
@@ -122,7 +122,7 @@ can use open data on the Internet to get a glimpse on DNS records for any domain
 name. We also present a tool to validate your own zone which can be used by
 administrators to detect abandoned hostnames.
 
-### Triple Play – Triple Fail [Slides](/static/archives/2017/3xplay_3xfail_public.pdf)
+### Triple Play – Triple Fail [Slides](/archives/2017/3xplay_3xfail_public.pdf)
 
 Antoine Neuenschwander (@ant0inet)
 
