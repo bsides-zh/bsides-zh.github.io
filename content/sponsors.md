@@ -18,11 +18,11 @@ from 2022]({{< ref "archives/2022/sponsors.md" >}})!
 
 ## Gold sponsors
 
-To be announced.
+{{< figure src="/images/spo/google.png" height="170px" class="img-center">}}
 
 ## Silver sponsors
 
-{{< figure src="/images/spo/nostarch.png" height="200px" >}}
+{{< figure src="/images/spo/nostarch.png" height="200px" class="img-center" >}}
 
 ## Supporting Organizations
 
