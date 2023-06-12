@@ -5,8 +5,18 @@ draft: false
 menu:
   main:
     weight: 2
-toc: true
+toc: false
 ---
+
+{{< raw-html >}}
+<div class="bg-washed-red ph4 pv4 ma4 br3">
+{{< /raw-html >}}
+The Call for Papers for the 2023 edition of BSides Zurich is now **closed**!
+We are currently reviewing submissions and will announce speakers very soon.
+Thanks to all who submitted their proposals!
+{{< raw-html >}}
+</div>
+{{< /raw-html >}}
 
 ## Conference format
 
