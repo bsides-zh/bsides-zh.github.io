@@ -7,9 +7,26 @@ menu:
     weight: 3
 ---
 
-Registration details to be announced. Stay tuned!
+Tickets for the 2023 edition of BSides Zurich will be released on **two dates**,
+in **two batches**:
 
-<!-- On the 17th August at 16:00 Zürich time (UTC+2), we will open registration for #BSidesZurich and release the second batch of tickets.
-Tickets price is 10 CHF as usual and the registration form will be available at the following link:
-BSides Zurich 2022 Tickets
-Stay tuned and follow us on Twitter (@BSidesZurich, #BSidesZH) for news and updates, we are very looking forward to see you soon at BSides Zurich 2022. -->
+{{< raw-html >}}
+<div class="bg-washed-green ph3 pv3 ma4 br3">
+{{< /raw-html >}}
+
+- **First batch**: Wednesday, July 12th at 15:00 Zürich time (UTC+2 / CEST)
+- **Second batch**: Thursday, August 3rd 16:00 Zürich time (UTC+2 / CEST)
+
+{{< raw-html >}}
+
+</div>
+{{< /raw-html >}}
+
+**Tickets usually run out quickly (in minutes)**, so make sure to bookmark these
+dates if you want to secure a ticket. Tickets price is 10 CHF as usual. The
+registration link will be posted here soon!
+
+Stay tuned and follow us on Twitter
+([@BSidesZurich](https://twitter.com/BSidesZurich)), Mastodon
+([@BSidesZurich](https://infosec.exchange/@BSidesZurich)) for updates. We are
+very much looking forward to see you soon at BSides Zurich 2023!
