@@ -7,12 +7,14 @@ menu:
     weight: 3
 ---
 
-Tickets for the 2023 edition of BSides Zurich will be released on **two dates**,
-in **two batches**:
+Tickets for the 2023 edition of BSides Zurich will be automatically released on
+**two dates**, in **two batches**:
 
 {{< raw-html >}}
 <div class="bg-washed-green ph3 pv3 ma4 br3">
 {{< /raw-html >}}
+
+**Get your tickets here: https://pretix.eu/bsideszh/bszh23/**
 
 - **First batch**: Wednesday, July 12th at 15:00 Zürich time (UTC+2 / CEST)
 - **Second batch**: Thursday, August 3rd 16:00 Zürich time (UTC+2 / CEST)
@@ -23,8 +25,7 @@ in **two batches**:
 {{< /raw-html >}}
 
 **Tickets usually run out quickly (in minutes)**, so make sure to bookmark these
-dates if you want to secure a ticket. Tickets price is 10 CHF as usual. The
-registration link will be posted here soon!
+dates if you want to secure a ticket. Tickets price is 10 CHF as usual.
 
 Stay tuned and follow us on Twitter
 ([@BSidesZurich](https://twitter.com/BSidesZurich)), Mastodon
