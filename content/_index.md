@@ -11,18 +11,18 @@ featured_image_desc: "BSides Zurich logo"
 ---
 
 {{< raw-html >}}
-<div class="bg-washed-green ph4 pv1 ma4 br3">
+<div class="bg-washed-green ph4 pv2 ma3 br3">
 {{< /raw-html >}}
 
-**Date & place**: Saturday, 2023-09-09 (all day) in Zurich, Switzerland.
+## 🚨 Registration information 🚨
 
-**Submit to our CfP**: [https://pretalx.com/bsides-zh-2023/cfp](https://pretalx.com/bsides-zh-2023/cfp)
+**Tickets will be published here: https://pretix.eu/bsideszh/bszh23/**
 
-**Deadline for submissions**: 2023-06-01 23:59:59 CET.
-
-**Deadline for mentoring program opt-in**: 2023-05-18 23:59:59 CET
+- **First batch**: Wednesday, July 12th at 15:00 Zürich time (UTC+2 / CEST)
+- **Second batch**: Thursday, August 3rd 16:00 Zürich time (UTC+2 / CEST)
 
 {{< raw-html >}}
+
 </div>
 {{< /raw-html >}}
 
