@@ -107,9 +107,9 @@ regular individuals' cryptocurrency wallets and accounts.
 
 **Bio:** Antonis Terefos - [@Tera0017](https://twitter.com/Tera0017)
 
-Antonis Terefos is a Threat Intelligence Researcher at SentinelOne, focusing on
-Cybercrime. His expertise includes reverse engineering, malware analysis and
-creating tools automating malware reversing.
+Antonis Terefos is a Threat Intelligence Researcher focusing on Cybercrime. His
+expertise includes reverse engineering, malware analysis and creating tools
+automating malware reversing.
 
 ### How to break, then fix, differential privacy on finite computers
 
