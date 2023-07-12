@@ -18,7 +18,7 @@ featured_image_desc: "BSides Zurich logo"
 
 **Tickets will be published here: https://pretix.eu/bsideszh/bszh23/**
 
-- **First batch**: Wednesday, July 12th at 15:00 Zürich time (UTC+2 / CEST)
+- ~~**First batch**: Wednesday, July 12th at 15:00 Zürich time (UTC+2 / CEST)~~ _(sold out in < 2 mins)_
 - **Second batch**: Thursday, August 3rd 16:00 Zürich time (UTC+2 / CEST)
 
 {{< raw-html >}}
