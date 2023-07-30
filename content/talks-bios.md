@@ -51,6 +51,12 @@ Patrick is a malware analyst. Whether he is manually reversing malware or
 tracking threat actor infrastructures based on their domains, in almost any
 security area he has interest and curiosity guiding him.
 
+**Bio:** Beni Urech - [@beniurech](https://twitter.com/beniurech)
+
+Beni is a curious security engineer with many years working in cyber defense. He
+likes creating tools and building systems to automate his work and to get new
+information out of large piles of data.
+
 ### Golden mistake
 
 In my presentation, I will focus on the anomalies that can occur when
