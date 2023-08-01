@@ -19,6 +19,7 @@ from 2022]({{< ref "archives/2022/sponsors.md" >}})!
 ## Gold sponsors
 
 {{< figure src="/images/spo/google.png" height="170px" class="img-center">}}
+{{< figure src="/images/spo/compass.png" height="280px" class="img-center">}}
 
 ## Silver sponsors
 
