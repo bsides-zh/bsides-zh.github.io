@@ -21,6 +21,8 @@ featured_image_desc: "BSides Zurich logo"
 - ~~**First batch**: Wednesday, July 12th at 15:00 Zürich time (UTC+2 / CEST)~~ _(sold out in < 2 mins)_
 - **Second batch**: Thursday, August 3rd 16:00 Zürich time (UTC+2 / CEST)
 
+BSides 2023 will be taking place on **September 9th, 2023**
+
 {{< raw-html >}}
 
 </div>
@@ -40,6 +42,8 @@ to both present and participate in an intimate atmosphere that encourages
 collaboration. It is an intense event with discussions, demos, and interaction
 from participants. It is where conversations for the next-big-thing are
 happening.
+
+Our [call for papers]({{<ref "call-for-papers">}}) is over for this year.
 
 ## Why this conference?
 
