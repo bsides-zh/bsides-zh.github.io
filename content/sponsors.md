@@ -4,7 +4,7 @@ date: 2023-03-05T17:56:20Z
 draft: false
 menu:
   main:
-    weight: 4
+    weight: 5
 ---
 
 Sponsors are still being announced. You can also check [out our sponsors

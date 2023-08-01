@@ -2,9 +2,6 @@
 title: "Call for Papers"
 date: 2023-03-05T17:32:54Z
 draft: false
-menu:
-  main:
-    weight: 2
 toc: false
 ---
 
