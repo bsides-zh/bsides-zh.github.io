@@ -21,6 +21,7 @@ featured_image_desc: "BSides Zurich logo"
 - ~~**First batch**: Wednesday, July 12th at 15:00 Zürich time (UTC+2 / CEST)~~
   _(sold out in < 2 mins)_
 - ~~**Second batch**: Thursday, August 3rd 16:00 Zürich time (UTC+2 / CEST)~~
+  _(sold out)_
 
 **Tickets are now sold out**. We'll start drafting tickets that have been left
 unclaimed and assign them randomly to people on the waiting list, so keep an
