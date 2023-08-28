@@ -21,7 +21,11 @@ Tickets for the 2023 edition of BSides Zurich will be automatically released on
 
 - ~~**First batch**: Wednesday, July 12th at 15:00 Zürich time (UTC+2 / CEST)~~
   _(sold out in < 2 mins)_
-- **Second batch**: Thursday, August 3rd 16:00 Zürich time (UTC+2 / CEST)
+- ~~**Second batch**: Thursday, August 3rd 16:00 Zürich time (UTC+2 / CEST)~~
+
+**Tickets are now sold out**. We'll start drafting tickets that have been left
+unclaimed and assign them randomly to people on the waiting list, so keep an
+eye out for them in your inbox!
 
 {{< raw-html >}}
 

@@ -18,8 +18,13 @@ featured_image_desc: "BSides Zurich logo"
 
 **Tickets will be published here: https://pretix.eu/bsideszh/bszh23/**
 
-- ~~**First batch**: Wednesday, July 12th at 15:00 Zürich time (UTC+2 / CEST)~~ _(sold out in < 2 mins)_
-- **Second batch**: Thursday, August 3rd 16:00 Zürich time (UTC+2 / CEST)
+- ~~**First batch**: Wednesday, July 12th at 15:00 Zürich time (UTC+2 / CEST)~~
+  _(sold out in < 2 mins)_
+- ~~**Second batch**: Thursday, August 3rd 16:00 Zürich time (UTC+2 / CEST)~~
+
+**Tickets are now sold out**. We'll start drafting tickets that have been left
+unclaimed and assign them randomly to people on the waiting list, so keep an
+eye out for them in your inbox!
 
 BSides 2023 will be taking place on **September 9th, 2023**
 
