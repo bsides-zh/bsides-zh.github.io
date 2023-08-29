@@ -25,7 +25,7 @@ having you!
   - Patrick Schläpfer & Beni Urech _(Stübli)_
 - 11:25 – 11:45 - [How to break, then fix, differential privacy on finite
   computers]({{< ref "talks-bios#how-to-break-then-fix-differential-privacy-on-finite-computers" >}})
-  - Damien Desfontaines _(CR3.4)_
+  - Damien Desfontaines _(CR3.0)_
 - 11:50 – 12:10 - [Paralyzing the Node one RegEx at a
   time]({{< ref "talks-bios#paralyzing-the-node-one-regex-at-a-time" >}})
   - Elliot Ward _(CR3.1)_
@@ -45,7 +45,7 @@ having you!
 - 14:30 – 14:50 - [TA505 and the Dark Side of GoogleAds: Unraveling the
   Dangerous
   Campaigns]({{< ref "talks-bios#ta505-and-the-dark-side-of-googleads-unraveling-the-dangerous-campaigns" >}})
-  - Antonis Terefos _(CR3.4)_
+  - Antonis Terefos _(CR3.0)_
 - 14:55 – 15:15 - [Golden mistake]({{< ref "talks-bios#golden-mistake" >}})
   - Alexander Rodchenko _(Stübli)_
 - 15:20 – 15:40 - [Cultural Differences in Social Engineering: A Swiss
