@@ -4,7 +4,7 @@ date: 2023-03-05T17:39:22Z
 draft: false
 menu:
   main:
-    weight: 4
+    weight: 5
 ---
 
 BSides Zurich 2023 will be taking place on September 9th, 2023 at the
